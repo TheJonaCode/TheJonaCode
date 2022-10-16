@@ -1,5 +1,3 @@
-[![Header](https://c.tenor.com/4MALNxOjDYEAAAAC/pacman-video-game.gif)]
-
 # :man_technologist: Jonathan Perez Ordoñez
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-perez-ord/)](https://www.linkedin.com/in/jonathan-perez-ord/)
@@ -7,7 +5,7 @@
 
 
 ```
-Soy un desarrollador especializado en Front - End con experiencia en la creación de sitios web y aplicaciones web. <br>
+Soy un desarrollador especializado en Front - End con experiencia en la creación de sitios web y aplicaciones web. :computer:
 ```
 Aquí puedes ver mi [portafolio!](https://devjonathanperez.netlify.app/)
 
@@ -24,6 +22,5 @@ Aquí puedes ver mi [portafolio!](https://devjonathanperez.netlify.app/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/TheJonaCode/)](https://github.com/TheJonaCode/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/TheJonaCode/)](https://github.com/TheJonaCode/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/TheJonaCode/)](https://github.com/TheJonaCode/)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/TheJonaCode/)](https://github.com/TheJonaCode/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/TheJonaCode/)](https://github.com/TheJonaCode/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/TheJonaCode/)](https://github.com/TheJonaCode/)
