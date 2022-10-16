@@ -5,7 +5,7 @@
 
 
 ```
-Desarrollador FrontEnd. Experiencia en la creación de sitios web y aplicaciones web.
+Desarrollador FrontEnd con experiencia en la creación de sitios web y aplicaciones web.
 ```
 Aquí puedes ver mi [portafolio!](https://devjonathanperez.netlify.app/)
 
