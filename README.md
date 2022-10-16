@@ -5,14 +5,14 @@
 
 
 ```
-Soy un desarrollador especializado en Front - End con experiencia en la creación de sitios web y aplicaciones web.
+Desarrollador FrontEnd. Experiencia en la creación de sitios web y aplicaciones web.
 ```
 Aquí puedes ver mi [portafolio!](https://devjonathanperez.netlify.app/)
 
 ## Sobre mí
 
 - :earth_americas: Soy de México, Tlaxcala
-- :computer: Ingeniero en Desarrollo y Gestión del Software (En proceso)
+- :computer: Ing. en Desarrollo y Gestión del Software (En proceso)
 - :space_invader: Me gustan los videojuegos!
 
 
