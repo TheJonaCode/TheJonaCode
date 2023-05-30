@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-perez-ord/)](https://www.linkedin.com/in/jonathan-perez-ord/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathanperezord@gmail.com)](mailto:jonathanperezord@gmail.com)
 
-<p>Hi there! </br> I'm Jonathan. Software Developer from <img src="https://img.icons8.com/?size=512&id=UFGk2vu5rEkt&format=png" width="13"/> <b>Tlaxcala, Mexico.</p>
+<p>Hi there! </br> I'm Jonathan Perez. Software Developer from <img src="https://img.icons8.com/?size=512&id=UFGk2vu5rEkt&format=png" width="13"/> <b>Tlaxcala, Mexico.</p>
 
 Here you can see my [portfolio!](https://devjonathanperez.netlify.app/)
 
